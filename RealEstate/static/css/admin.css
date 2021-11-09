@@ -1,0 +1,16 @@
+#header {
+    background-color: #10284e;
+}
+
+#branding h1 {
+    color: white;
+}
+
+div.breadcrumbs {
+    background-color: #30caa0;
+    color: white;
+}
+
+.module caption {
+    background-color: #30caa0;
+}
